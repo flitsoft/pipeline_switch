@@ -3,8 +3,8 @@ const yaml = require('js-yaml');
 const fs   = require('fs');
 
 program
-    .requiredOption('-p, --project <project_id>', 'project id')
-    .requiredOption('-t, --type <type>', 'ci or cd')
+    .requiredOption('-p, --project <project_id>', 'Project id')
+    .requiredOption('-t, --type <type>', 'Must be either ci or cd')
     .requiredOption('-v, --value <type>', 'Value of ci or cd');
 
 program.parse();
