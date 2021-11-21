@@ -1,5 +1,6 @@
 flit_ride:
-  ci: github.com/flitsoft/flitride
+#  ci: github.com/flitsoft/flitride
+  ci: github.com/flitride/flit_ride
   cd: codemagic.io/flitsoft.flitride
 
 tolotra.mg:

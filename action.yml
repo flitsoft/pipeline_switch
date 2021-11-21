@@ -17,7 +17,7 @@ runs:
 
   using: "composite"
   steps:
-    - name: "Flutter setup"
+    - name: "Pipeline switch check"
       shell: bash
       run: |
         npm install
