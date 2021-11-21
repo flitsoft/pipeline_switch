@@ -15,4 +15,4 @@ branding:
   color: orange
 runs:
   using: "node12"
-  main: index.js --project ${{ inputs.project }} -type ${{ inputs.type }}  --value=${{ inputs.value }}
+  main: npm install && index.js --project ${{ inputs.project }} -type ${{ inputs.type }}  --value=${{ inputs.value }}
