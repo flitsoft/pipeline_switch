@@ -14,5 +14,11 @@ branding:
   icon: cloud
   color: orange
 runs:
-  using: "node12"
-  main: npm install && index.js --project ${{ inputs.project }} -type ${{ inputs.type }}  --value=${{ inputs.value }}
+
+  using: "composite"
+  steps:
+    - name: "Flutter setup"
+      shell: bash
+      run: |
+        npm install
+        node index.js --project ${{ inputs.project }} -type ${{ inputs.type }}  --value=${{ inputs.value }}
