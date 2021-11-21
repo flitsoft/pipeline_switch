@@ -5,7 +5,7 @@ flit_ride:
 
 tolotra.mg:
   ci: github.com/tolotra-mg/tolotra_mg
-  cd: codemagic.io/flitsoft.tolotra-mg
+  cd: codemagic.io/flitsoft.tolotramg
 
 booking:
   ci: github.com/flit-Booking/booking
