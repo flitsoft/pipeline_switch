@@ -10,7 +10,7 @@ booking:
   ci: https://github.com/Flit-Booking/flit_booking
   cd: codemagic.io/flitsoft.flitbooking
 
-transaction:
+transaction_mvola:
   ci: https://github.com/Flit-Soft-Team-A/transaction_mvola
   cd: no_cd
 
@@ -19,6 +19,6 @@ facebook_scrape:
   cd: no_cd
 
 e2e_testing:
-  ci: https://github.com/Flit-Soft-Team-D/pipeline_e2e_testing
+  ci: https://github.com/Flit-Soft-Team-E/pipeline_e2e_testing
   cd: no_cd
 
