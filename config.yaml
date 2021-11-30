@@ -1,13 +1,12 @@
 flit_ride:
-#  ci: github.com/flitsoft/flitride
-  ci: github.com/flitride/flit_ride
+  ci: https://github.com/flitride/flit_ride
   cd: codemagic.io/flitsoft.flitride
 
 tolotra.mg:
-  ci: github.com/tolotra-mg/tolotra_mg
+  ci: https://github.com/Tolotra-mg/tolotra_mg
   cd: codemagic.io/flitsoft.tolotramg
 
 booking:
-  ci: github.com/flit-Booking/booking
+  ci: https://github.com/Flit-Booking/flit_booking
   cd: codemagic.io/flitsoft.flitbooking
 
