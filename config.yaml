@@ -6,6 +6,10 @@ flit_ride_server:
   ci: https://github.com/flitride/flit_ride_server
   cd: no_cd
 
+flit_ride_model:
+  ci: https://github.com/flitride/flit_ride_model
+  cd: no_cd
+
 tolotra.mg:
   ci: https://github.com/Tolotra-mg/tolotra_mg
   cd: codemagic.io/flitsoft.tolotramg
