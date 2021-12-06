@@ -1,5 +1,6 @@
 flit_ride:
   ci: https://github.com/flitride/flit_ride
+  # ci: https://github.com/flitsoft/flitride
   cd: codemagic.io/flitsoft.flitride
 
 flit_ride_server:
@@ -12,14 +13,19 @@ flit_ride_model:
 
 tolotra.mg:
   ci: https://github.com/Tolotra-mg/tolotra_mg
+  # ci: https://github.com/flitsoft/tolotra.mg
+  # ci: https://github.com/flitride/tolotra.mg
   cd: codemagic.io/flitsoft.tolotramg
 
 booking:
   ci: https://github.com/Flit-Booking/flit_booking
+  # ci: https://github.com/flitsoft/booking
+  # ci: https://github.com/flitride/booking
   cd: codemagic.io/flitsoft.flitbooking
 
 transaction_mvola:
   ci: https://github.com/Flit-Soft-Team-E/transaction_mvola
+  # ci: https://github.com/Flit-Soft-Team-A/transaction_mvola
   cd: no_cd
 
 facebook_scrape:
@@ -28,30 +34,6 @@ facebook_scrape:
 
 e2e_testing:
   ci: https://github.com/Flit-Soft-Team-E/pipeline_e2e_testing
+  # ci: https://github.com/Flit-Soft-Team-B/pipeline_e2e_testing
+  # ci: https://github.com/Flit-Soft-Team-D/pipeline_e2e_testing
   cd: no_cd
-
-#https://github.com/flitsoft/time_doctor_deadline
-#https://github.com/flitsoft/booking
-#https://github.com/flitsoft/flitride
-#https://github.com/flitsoft/tolotra.mg
-#https://github.com/flitsoft/CountryCodePicker
-#
-#https://github.com/flitride/flit_ride_server
-#https://github.com/flitride/flit_ride
-#https://github.com/flitride/booking
-#https://github.com/flitride/tolotra.mg
-#https://github.com/flitride/flit_ride_model
-#
-#https://github.com/Flit-Soft-Team-A/transaction_mvola
-#
-#https://github.com/Flit-Soft-Team-B/pipeline_e2e_testing
-#
-#https://github.com/Flit-Soft-Team-C/facebook_scrape
-#
-#https://github.com/Flit-Soft-Team-D/pipeline_e2e_testing
-#
-#https://github.com/Flit-Soft-Team-E/pipeline_e2e_testing
-#https://github.com/Flit-Soft-Team-E/transaction_mvola
-#
-#https://github.com/Tolotra-mg/tolotra_mg
-
