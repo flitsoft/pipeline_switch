@@ -1,5 +1,5 @@
 flit_ride:
-  ci: https://github.com/flitsoft/flitride
+  ci: https://github.com/Flit-Soft-Team-F/flitride
   # ci: https://github.com/flitride/flit_ride
   cd: codemagic.io/flitsoft.flitride
 
