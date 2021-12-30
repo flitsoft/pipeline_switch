@@ -4,7 +4,7 @@ flit_ride:
   cd: codemagic.io/flitsoft.flitride
 
 flit_ride_server:
-  ci: https://github.com/flitride/flit_ride_server
+  ci: https://github.com/Flit-Ride-Server/Flit-Ride-Server
   cd: no_cd
 
 flit_ride_model:
