@@ -24,8 +24,8 @@ booking:
   cd: codemagic.io/flitsoft.flitbooking
 
 transaction_mvola:
-  ci: https://github.com/Flit-Soft-Team-E/transaction_mvola
-  # ci: https://github.com/Flit-Soft-Team-A/transaction_mvola
+  # ci: https://github.com/Flit-Soft-Team-E/transaction_mvola
+  ci: https://github.com/Flit-Soft-Team-A/transaction_mvola
   cd: no_cd
 
 facebook_scrape:
