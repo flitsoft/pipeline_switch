@@ -16,6 +16,10 @@ tolotra.mg:
   # ci: https://github.com/flitsoft/tolotra.mg
   # ci: https://github.com/flitride/tolotra.mg
   cd: codemagic.io/flitsoft.tolotramg
+  
+petit_announce:
+  ci: https://github.com/Tolotra-mg-server/petites_annonces_app_cloud_functions
+  cd: no_cd
 
 booking:
   ci: https://github.com/Flit-Booking/flit_booking
