@@ -44,3 +44,7 @@ e2e_testing:
   
 tolotra_mg_ml_bot:
   ci: https://github.com/Flit-Soft-Team-G/named_entity_recognizer
+  
+repo_mirroring:
+  ci: https://github.com/Flit-Soft-Team-F/mirroring
+  #ci: https://github.com/flitsoft/mirroring
