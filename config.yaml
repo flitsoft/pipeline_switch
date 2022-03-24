@@ -41,3 +41,6 @@ e2e_testing:
   # ci: https://github.com/Flit-Soft-Team-D/pipeline_e2e_testing
   #ci: https://github.com/Flit-Soft-Team-E/pipeline_e2e_testing
   cd: no_cd
+  
+tolotra_mg_ml_bot:
+  ci: https://github.com/Flit-Soft-Team-G/named_entity_recognizer
