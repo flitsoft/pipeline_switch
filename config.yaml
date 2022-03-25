@@ -37,7 +37,7 @@ facebook_scrape:
   cd: no_cd
 
 e2e_testing:
-  # ci : https://github.com/Flit-Soft-Team-I/pipeline_e2e_testing
+  ci : https://github.com/Flit-Soft-Team-I/pipeline_e2e_testing
   # ci : https://github.com/Flit-Soft-Team-H/pipeline_e2e_testing
   # ci: https://github.com/Flit-Soft-Team-B/pipeline_e2e_testing
   # ci: https://github.com/Flit-Soft-Team-D/pipeline_e2e_testing
