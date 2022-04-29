@@ -25,7 +25,6 @@ booking:
   cd: codemagic.io/flitsoft.flitbooking
 
 transaction_mvola:
-  # ci: https://github.com/Flit-Soft-Team-E/transaction_mvola #29/04/2022
   ci: https://github.com/Flit-Soft-Team-A/transaction_mvola
   cd: no_cd
 
