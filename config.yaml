@@ -1,7 +1,6 @@
 flit_ride:
   ci: https://github.com/Flit-Soft-Team-F/flitride
   # ci: https://github.com/flitsoft/flitride # do not use this! because it is under flitsoft
-  # ci: https://github.com/flitride/flit_ride
   cd: codemagic.io/flitsoft.flitride
 
 flit_ride_server:
@@ -15,7 +14,6 @@ flit_ride_model:
 tolotra.mg:
   ci: https://github.com/Tolotra-mg/tolotra_mg
   # ci: https://github.com/flitsoft/tolotra.mg
-  # ci: https://github.com/flitride/tolotra.mg
   cd: codemagic.io/flitsoft.tolotramg
   
 petit_announce:
@@ -25,7 +23,6 @@ petit_announce:
 booking:
   ci: https://github.com/Flit-Booking/flit_booking
   # ci: https://github.com/flitsoft/booking
-  # ci: https://github.com/flitride/booking
   cd: codemagic.io/flitsoft.flitbooking
 
 transaction_mvola:
