@@ -1,5 +1,5 @@
 flit_ride:
-  ci: https://github.com/Flit-Soft-Team-F/flitride
+  ci: https://github.com/Flit-Soft-Team-F/flitride 
   # ci: https://github.com/flitsoft/flitride # do not use this! because it is under flitsoft
   cd: codemagic.io/flitsoft.flitride
 
@@ -26,7 +26,7 @@ booking:
   cd: codemagic.io/flitsoft.flitbooking
 
 transaction_mvola:
-  # ci: https://github.com/Flit-Soft-Team-E/transaction_mvola
+  # ci: https://github.com/Flit-Soft-Team-E/transaction_mvola #29/04/2022
   ci: https://github.com/Flit-Soft-Team-A/transaction_mvola
   cd: no_cd
 
@@ -35,11 +35,11 @@ facebook_scrape:
   cd: no_cd
 
 e2e_testing:
-  # ci : https://github.com/Flit-Soft-Team-I/pipeline_e2e_testing
-  # ci : https://github.com/Flit-Soft-Team-H/pipeline_e2e_testing
-  # ci: https://github.com/Flit-Soft-Team-B/pipeline_e2e_testing
-  # ci: https://github.com/Flit-Soft-Team-D/pipeline_e2e_testing
-  ci: https://github.com/Flit-Soft-Team-E/pipeline_e2e_testing
+  # ci : https://github.com/Flit-Soft-Team-I/pipeline_e2e_testing #29/04/2022
+  # ci : https://github.com/Flit-Soft-Team-H/pipeline_e2e_testing #29/04/2022
+  # ci: https://github.com/Flit-Soft-Team-B/pipeline_e2e_testing #29/04/2022
+  # ci: https://github.com/Flit-Soft-Team-D/pipeline_e2e_testing #29/04/2022
+  ci: https://github.com/Flit-Soft-Team-E/pipeline_e2e_testing 
   cd: no_cd
   
 tolotra_mg_ml_bot:
