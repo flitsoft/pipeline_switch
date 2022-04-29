@@ -1,7 +1,7 @@
+# Put the date when the build minute has ended
 flit_ride:
   ci: https://github.com/Flit-Soft-Team-J/flitride 
   # ci: https://github.com/Flit-Soft-Team-F/flitride #29/04/2022
-  # ci: https://github.com/flitsoft/flitride # do not use this! because it is under flitsoft
   cd: codemagic.io/flitsoft.flitride
 
 flit_ride_server:
@@ -14,7 +14,6 @@ flit_ride_model:
 
 tolotra.mg:
   ci: https://github.com/Tolotra-mg/tolotra_mg
-  # ci: https://github.com/flitsoft/tolotra.mg
   cd: codemagic.io/flitsoft.tolotramg
   
 petit_announce:
@@ -23,7 +22,6 @@ petit_announce:
 
 booking:
   ci: https://github.com/Flit-Booking/flit_booking
-  # ci: https://github.com/flitsoft/booking
   cd: codemagic.io/flitsoft.flitbooking
 
 transaction_mvola:
@@ -47,5 +45,5 @@ tolotra_mg_ml_bot:
   ci: https://github.com/Flit-Soft-Team-G/named_entity_recognizer
   
 repo_mirroring:
-  ci: https://github.com/Flit-Soft-Team-F/mirroring
-  #ci: https://github.com/flitsoft/mirroring
+  ci: https://github.com/flitsoft/mirroring
+  # ci: https://github.com/Flit-Soft-Team-F/mirroring #29/04/2022
