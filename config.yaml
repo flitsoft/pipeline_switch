@@ -45,4 +45,3 @@ tolotra_mg_ml_bot:
   
 repo_mirroring:
   ci: https://github.com/flitsoft/mirroring
-  # ci: https://github.com/Flit-Soft-Team-F/mirroring #29/04/2022
