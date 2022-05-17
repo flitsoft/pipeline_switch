@@ -45,3 +45,7 @@ tolotra_mg_ml_bot:
   
 repo_mirroring:
   ci: https://github.com/flitsoft/mirroring
+  
+database_sanittizer:
+  ci: https://github.com/Flit-Soft-Team-C/sanitizer
+  cd: no_cd
