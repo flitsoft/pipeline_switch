@@ -28,6 +28,10 @@ transaction_mvola:
   ci: https://github.com/Flit-Soft-Team-A/transaction_mvola
   cd: no_cd
 
+mvola_scrape:
+  ci: https://github.com/Flit-Soft-Team-A/mvola_scrape
+  cd: no_cd
+
 facebook_scrape:
   ci: https://github.com/Flit-Soft-Team-C/facebook_scrape
   cd: no_cd
