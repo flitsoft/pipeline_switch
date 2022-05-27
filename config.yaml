@@ -2,7 +2,8 @@
 flit_ride:
   ci: https://github.com/Flit-Soft-Team-J/flitride 
   # ci: https://github.com/Flit-Soft-Team-F/flitride #29/04/2022
-  cd: codemagic.io/flitsoft.flitride
+  # cd: codemagic.io/flitsoft.flitride
+  cd: codemagic.io/Flit-Soft-Team-J-flitride
 
 flit_ride_server:
   ci: https://github.com/Flit-Ride-Server/Flit-Ride-Server
