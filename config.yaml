@@ -14,7 +14,8 @@ flit_ride_model:
   cd: no_cd
 
 tolotra.mg:
-  ci: https://github.com/Flit-Soft-Team-I/tolotra_mg
+  ci: https://github.com/Flit-Soft-Team-D/tolotra_mg
+  # ci: https://github.com/Flit-Soft-Team-I/tolotra_mg
   # ci: https://github.com/Tolotra-mg/tolotra_mg
   cd: codemagic.io/flitsoft.tolotramg
   
