@@ -1,4 +1,6 @@
 # Put the date when the build minute has ended
+superSocialRunner:
+  ci: https://github.com/SuperSocialRunner/superSocial
 flit_ride:
   # ci: https://github.com/Flit-Soft-Team-J/flitride 
   ci: https://github.com/Flit-Soft-Team-F/flitride #29/04/2022
